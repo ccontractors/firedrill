@@ -26,3 +26,29 @@ C:\ws_git\firedrill>
 
 
 Git -am not working if a file is "brandnew" 
+
+C:\ws_git\firedrill>git commit -am "added a file"
+On branch master
+Your branch is up-to-date with 'origin/master'.
+
+Untracked files:
+        gitmessage.txt
+
+nothing added to commit but untracked files present
+
+C:\ws_git\firedrill>git status
+On branch master
+Your branch is up-to-date with 'origin/master'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+        gitmessage.txt
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+C:\ws_git\firedrill>
+
+http://kernowsoul.com/blog/2012/06/20/4-ways-to-avoid-merge-commits-in-git/
+
+https://www.atlassian.com/git/tutorials/rewriting-history#git-reflog
