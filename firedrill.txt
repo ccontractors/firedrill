@@ -1,0 +1,10 @@
+static puclic main(){
+
+//codeline 1
+System.out.println("Some text");
+
+//codeline 2
+System.out.println("Some more text here");
+
+
+}
