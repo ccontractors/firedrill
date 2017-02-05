@@ -23,3 +23,6 @@ See 'git help config' and search for 'push.default' for further information.
 Everything up-to-date
 
 C:\ws_git\firedrill>
+
+
+Git -am not working if a file is "brandnew" 
